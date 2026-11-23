@@ -1,0 +1,7 @@
+node_modules
+dist
+video
+screenshots
+*.local
+.vercel
+.DS_Store
